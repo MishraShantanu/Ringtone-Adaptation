@@ -14,6 +14,11 @@ https://maxmind.github.io/GeoIP2-java/
 
 #
 •	android.media.Ringtone 
+
+https://developer.android.com/reference/android/media/RingtoneManager
+https://developers.google.com/location-context/geofencing/
+https://developers.google.com/location-context/activity-recognition/
+
 https://developer.android.com/reference/android/media/Ringtone
 
 https://docs.microsoft.com/en-us/dotnet/api/android.media.ringtone?view=xamarin-android-sdk-9
